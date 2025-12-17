@@ -1,0 +1,12 @@
+typeName,connectionName,connectorType,databaseName,schemaName,entityName,columnName,dataType,adminUsers
+Connection,vikingosgill-cosmos-qa,vikingosgill-azure-cosmos-db,,,,,,juan.aquino
+Database,vikingosgill-cosmos-qa,vikingosgill-azure-cosmos-db,vikingosgill-cosmosdb,,,,,
+Schema,vikingosgill-cosmos-qa,vikingosgill-azure-cosmos-db,vikingosgill-cosmosdb,accounts,,,,
+Table,vikingosgill-cosmos-qa,vikingosgill-azure-cosmos-db,vikingosgill-cosmosdb,accounts,devices,,,
+Column,vikingosgill-cosmos-qa,vikingosgill-azure-cosmos-db,vikingosgill-cosmosdb,accounts,devices,id,string,
+Column,vikingosgill-cosmos-qa,vikingosgill-azure-cosmos-db,vikingosgill-cosmosdb,accounts,devices,version,string,
+Column,vikingosgill-cosmos-qa,vikingosgill-azure-cosmos-db,vikingosgill-cosmosdb,accounts,devices,platform,string,
+Column,vikingosgill-cosmos-qa,vikingosgill-azure-cosmos-db,vikingosgill-cosmosdb,accounts,devices,appVersion,string,
+Column,vikingosgill-cosmos-qa,vikingosgill-azure-cosmos-db,vikingosgill-cosmosdb,accounts,devices,status,number,
+Column,vikingosgill-cosmos-qa,vikingosgill-azure-cosmos-db,vikingosgill-cosmosdb,accounts,devices,creationDate,string,
+Column,vikingosgill-cosmos-qa,vikingosgill-azure-cosmos-db,vikingosgill-cosmosdb,accounts,devices,modifiedDate,string,
